@@ -1,1 +1,1 @@
-worker: python unveilr/bot.py
+worker: ./lune.exe ./main.luau
